@@ -1,0 +1,11 @@
+python-dotenv==1.0.1
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-core==0.1.26
+langchain-groq==0.0.1
+langchain-openai==0.0.7
+deepgram-sdk==3.7.3
+mpv==1.0.7
+pyaudio==0.2.14
+youtube-transcript-api
+yt-dlp
